@@ -1,0 +1,87 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  max-height: 99vw;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+
+
+body {
+  background-color: black;
+  font-family: 'Roboto', sans-serif;
+  align-items: center;
+
+}
+
+main {
+  display: flex;
+
+}
+.box {
+  height: auto;
+  width: 33%;
+  margin: auto;
+  border-radius: 5px;
+  line-height: 1.5rem;
+  padding:20px;
+}
+
+.jugador-1 {
+  text-align: center;
+  background-color:#C3C0BF;
+  padding:20px;
+
+
+}
+
+.jugador-2 {
+  text-align: center;
+  background-color:#393737;
+  padding:20px;
+
+
+}
+
+.boxJugador {
+  text-transform: uppercase;
+  font-size: 1.8rem;
+  padding:20px;
+  font-weight: bold;
+
+}
+
+button {
+  padding: 15px;
+  margin: 0.5rem  0.5rem;
+
+  
+}
+
+button:hover {
+  font-weight: bold;
+}
+
+button:active {
+  transform: scale(0.95);
+  font-weight: bold;
+
+}
+
+#button {
+  display: flex;
+  background: chartreuse;
+  justify-content:center;
+
+}
+#newGame {
+justify-content:center;
+
+}
+
+.puntaje {
+  font-weight: 400;
+}
