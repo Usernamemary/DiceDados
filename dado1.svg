@@ -1,1 +1,15 @@
-<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><defs><style>.cls-1{fill:#fff;}</style></defs><title>dado1</title><rect class="cls-1" x="19" y="19" width="162" height="162" rx="19.13"/><path d="M161.87,23A15.15,15.15,0,0,1,177,38.13V161.87A15.15,15.15,0,0,1,161.87,177H38.13A15.15,15.15,0,0,1,23,161.87V38.13A15.15,15.15,0,0,1,38.13,23H161.87m0-8H38.13A23.14,23.14,0,0,0,15,38.13V161.87A23.14,23.14,0,0,0,38.13,185H161.87A23.14,23.14,0,0,0,185,161.87V38.13A23.14,23.14,0,0,0,161.87,15Z"/><rect class="cls-1" x="19" y="19" width="162" height="162" rx="19.13"/><path d="M161.87,23A15.15,15.15,0,0,1,177,38.13V161.87A15.15,15.15,0,0,1,161.87,177H38.13A15.15,15.15,0,0,1,23,161.87V38.13A15.15,15.15,0,0,1,38.13,23H161.87m0-8H38.13A23.14,23.14,0,0,0,15,38.13V161.87A23.14,23.14,0,0,0,38.13,185H161.87A23.14,23.14,0,0,0,185,161.87V38.13A23.14,23.14,0,0,0,161.87,15Z"/><circle cx="100" cy="100" r="17"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#FF50A0;}
+</style>
+<title>dado1</title>
+<path class="st0" d="M38.1,19h123.7c10.6,0,19.1,8.6,19.1,19.1v123.7c0,10.6-8.6,19.1-19.1,19.1H38.1c-10.6,0-19.1-8.6-19.1-19.1
+	V38.1C19,27.6,27.6,19,38.1,19z"/>
+<path class="st1" d="M38.1,19h123.7c10.6,0,19.1,8.6,19.1,19.1v123.7c0,10.6-8.6,19.1-19.1,19.1H38.1c-10.6,0-19.1-8.6-19.1-19.1
+	V38.1C19,27.6,27.6,19,38.1,19z"/>
+<circle class="st0" cx="100" cy="100" r="17"/>
+</svg>
